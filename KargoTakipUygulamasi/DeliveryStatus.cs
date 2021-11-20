@@ -36,7 +36,7 @@ namespace KargoTakipUygulamasi
         {
             string path = AppDomain.CurrentDomain.BaseDirectory + @"kargo-takip.json";
             Environment.SetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS", path);
-            db = FirestoreDb.Create("kargo-takip-uygulamasi");
+            db = FirestoreDb.Create("firebase-name");
 
         }
         private void add_Click(object sender, EventArgs e)
