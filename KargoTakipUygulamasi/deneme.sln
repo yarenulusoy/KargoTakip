@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deneme", "deneme\deneme.csproj", "{C24A0C4D-C364-4827-8D3B-CE6640B2A5FA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2BB33C67-E418-4F55-9DB7-F63F5606EFB0}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\kargo-takip.json = ..\..\..\Downloads\kargo-takip.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C24A0C4D-C364-4827-8D3B-CE6640B2A5FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C24A0C4D-C364-4827-8D3B-CE6640B2A5FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C24A0C4D-C364-4827-8D3B-CE6640B2A5FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C24A0C4D-C364-4827-8D3B-CE6640B2A5FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CF87BDE-C6FD-4C9E-97B4-D96478D4344C}
+	EndGlobalSection
+EndGlobal
