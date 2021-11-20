@@ -1,0 +1,386 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "6JQ3+4VM Sitlapur, Bihar, India",
+      "global_code" : "7MV66JQ3+4VM"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "6JQ3+4V",
+               "short_name" : "6JQ3+4V",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Sitlapur",
+               "short_name" : "Sitlapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pashchim Champaran",
+               "short_name" : "Pashchim Champaran",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bihar",
+               "short_name" : "BR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "845306",
+               "short_name" : "845306",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "6JQ3+4V Sitlapur, Bihar, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.237875,
+                  "lng" : 84.60475
+               },
+               "southwest" : {
+                  "lat" : 27.23775,
+                  "lng" : 84.604625
+               }
+            },
+            "location" : {
+               "lat" : 27.2378419,
+               "lng" : 84.6046829
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.2391614802915,
+                  "lng" : 84.60603648029151
+               },
+               "southwest" : {
+                  "lat" : 27.2364635197085,
+                  "lng" : 84.6033385197085
+               }
+            }
+         },
+         "place_id" : "GhIJVh7uNOM8O0AR1PznH7MmVUA",
+         "plus_code" : {
+            "compound_code" : "6JQ3+4V Sitlapur, Bihar, India",
+            "global_code" : "7MV66JQ3+4V"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dudhaura - Purainiya Road",
+               "short_name" : "Dudhaura - Purainiya Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sitlapur",
+               "short_name" : "Sitlapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pashchim Champaran",
+               "short_name" : "Pashchim Champaran",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bihar",
+               "short_name" : "BR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "845306",
+               "short_name" : "845306",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dudhaura - Purainiya Rd, Sitlapur, Bihar 845306, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.2381782,
+                  "lng" : 84.6060045
+               },
+               "southwest" : {
+                  "lat" : 27.2353013,
+                  "lng" : 84.6017757
+               }
+            },
+            "location" : {
+               "lat" : 27.2370556,
+               "lng" : 84.6036034
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.2381782,
+                  "lng" : 84.6060045
+               },
+               "southwest" : {
+                  "lat" : 27.2353013,
+                  "lng" : 84.6017757
+               }
+            }
+         },
+         "place_id" : "ChIJr88UaAuYlDkR9OUOU-9sjog",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sitlapur",
+               "short_name" : "Sitlapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pashchim Champaran",
+               "short_name" : "Pashchim Champaran",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bihar",
+               "short_name" : "BR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "845306",
+               "short_name" : "845306",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sitlapur, Bihar 845306, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.2449205,
+                  "lng" : 84.60928319999999
+               },
+               "southwest" : {
+                  "lat" : 27.2306003,
+                  "lng" : 84.5814743
+               }
+            },
+            "location" : {
+               "lat" : 27.2386889,
+               "lng" : 84.5995003
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.2449205,
+                  "lng" : 84.60928319999999
+               },
+               "southwest" : {
+                  "lat" : 27.2306003,
+                  "lng" : 84.5814743
+               }
+            }
+         },
+         "place_id" : "ChIJqVLQeRKYlDkRMOtgWBLjw1U",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "845306",
+               "short_name" : "845306",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Pashchim Champaran",
+               "short_name" : "Pashchim Champaran",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bihar",
+               "short_name" : "BR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bihar 845306, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.288107,
+                  "lng" : 84.68610199999999
+               },
+               "southwest" : {
+                  "lat" : 27.0341061,
+                  "lng" : 84.5271985
+               }
+            },
+            "location" : {
+               "lat" : 27.1415406,
+               "lng" : 84.6269824
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.288107,
+                  "lng" : 84.68610199999999
+               },
+               "southwest" : {
+                  "lat" : 27.0341061,
+                  "lng" : 84.5271985
+               }
+            }
+         },
+         "place_id" : "ChIJ62-dLf6hlDkR0izyaP1obsI",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pashchim Champaran",
+               "short_name" : "Pashchim Champaran",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bihar",
+               "short_name" : "BR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pashchim Champaran, Bihar, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.5180155,
+                  "lng" : 84.7639465
+               },
+               "southwest" : {
+                  "lat" : 26.582735,
+                  "lng" : 83.8345348
+               }
+            },
+            "location" : {
+               "lat" : 27.1543104,
+               "lng" : 84.3542049
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5180155,
+                  "lng" : 84.7639465
+               },
+               "southwest" : {
+                  "lat" : 26.582735,
+                  "lng" : 83.8345348
+               }
+            }
+         },
+         "place_id" : "ChIJ_bfXUrxukzkRZcjDfNOUVcQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bihar",
+               "short_name" : "BR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bihar, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.5218326,
+                  "lng" : 88.28975199999999
+               },
+               "southwest" : {
+                  "lat" : 24.286278,
+                  "lng" : 83.31486509999999
+               }
+            },
+            "location" : {
+               "lat" : 25.0960742,
+               "lng" : 85.31311939999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5218326,
+                  "lng" : 88.28975199999999
+               },
+               "southwest" : {
+                  "lat" : 24.286278,
+                  "lng" : 83.31486509999999
+               }
+            }
+         },
+         "place_id" : "ChIJA2m78ERY7TkRJeO6G-0_rVc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.513327,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            },
+            "location" : {
+               "lat" : 20.593684,
+               "lng" : 78.96288
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.513327,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            }
+         },
+         "place_id" : "ChIJkbeSa_BfYzARphNChaFPjNc",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
