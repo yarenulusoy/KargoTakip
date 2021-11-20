@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "kargo-takip-uygulamasi",
+  "private_key_id": "5a2579d98b03b6b002e5aaa1a14fb4a2fda7d9f6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCLiNpfBMr/0Xlg\ndMVu60evp+yAdSbibkSQ/WWV1sasEAFS8DDOoxkQ3yuBgY5wPkKKVIa/QuVzoed7\n3M2mMvBpA7kk6LWWQtVlSMnPLHFqO05P3qsOLpL6I/wMNkSHn6Jn1Tbrq+URBPp2\n4iWD2+eywgP+ESB7GztHbTwU+do5EkC0KhU/kPEHY0L9OqRyWw9OTdTPtEBIIT+m\nj0WV5WgTQLue651deZDgyc22JYzam9k/YwW+COQbj8Vlt7+TFnDZCpWI6hhM9k74\n+j+m4Sw50mtL5eIEB0aI///dNhJxM3SPd3rB4rNmYrkF1jOAS/WdCywIwIfmFBFl\nrxWy4HrfAgMBAAECggEACfUxSFiqOAl19QlAUcMesY11VlGF/eDKqeI7jq7uLLdT\nsNyNTyHalxamHy7kwGPhEcgoeZvHjjH+uBsw3eyCtavbWaP12YxZeEnyhQNx8Jfc\n5dxJLtDqEknhIen5iAg/adOQgM8aoNVPHo7TCI74AQzRhh8ox0BRQa6s+/48sZfd\n5lcaQFuM1A0/4Ku0a4rMGt1y96Wpx+eIJs6pJN7v5iZSoA+bPyL3qF2hkOa6Itxb\nfZuDG5a55fZFoGNJO/6Q1+8oiHnrFsaWTHZbIa4BbmMBG6ogynK855PudMH5wkKW\n3EA7JAwHp7Gwy5jLYrj+ILyNWRKepBFTPEcL7JNYqQKBgQC9kxL7C8ViXbVEdihZ\n54B6bdkTddU//17QTQO0FstvOAKeGRuvr0XngREqJKxsf4WkJmFzc2doH22B8Oi6\nByY1KU1zHGoYpwzsUsuZo2h/GPSvKsRtUtJDCiz6gQo65PGRFZiWXW3eAdQYLaaL\nVtKAvyyK+jkBCtfFNx7ggXm3ZQKBgQC8bSxOuUCSkiOSJ6KD8mb/oV60s6iD8qSL\nyz30mByApssgnyRshIk5o74BvVr2/3yLXQryZv48Lgsv/SkjQL3+kuSS0RR3X1Ht\nSubNa+ZqcEOgSXVJT09uiqf/Ixze7KDZTc2g/0uGNHrlhbi3dbNuGCBOwSJx9uEJ\nQvbhocJu8wKBgFPUGWyRw/K/ZUykwyseR53bvUXxsR7fmdmadKzJ96NyrRWkHK4P\nX2YDmMd9+BDyQvJXVnhq66sLWq0/DmpUhvyzCuCADBpipEBMTGPf8nFhY7Ghw8Jk\nAT5L3Z/YN+HbI0b4ucSkA9VMEbGvXhn3hpYP825xP4vKc6dtvGWiW2RRAoGAMnYO\nSprkBxyp+AczR6DQIp+FrGD8vTFrDaEFW46s+2svtPHJoGIyGcSXKwIZ7VHoea4W\nM2qPpXAzQMvMi4tYFmgiXIsvrvRRDXpkqxi9YT3lbnSdu19JB3KMoRA3OCAox2lF\nq1sTT8KYMwWHvWIBBnfhlxWz8s9J3uAXG7/lQS8CgYEAschLDgDfZa3Nv4i9W4Me\nMzqAnEUDDJ7pY2MztogB/82kfVZnE8DXyz1BANesu4AOi1N+Zkc04srQh5P4E0Xs\nnPTblfuka/ZFlRS0KkE8O3knCpskUhiF/8lSVrYgQetWC8rjHa6bIVzunZcvpdD2\nS/8/Qj1JHieJoTFQq+sSzCM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-uci7u@kargo-takip-uygulamasi.iam.gserviceaccount.com",
+  "client_id": "112542786279246335256",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-uci7u%40kargo-takip-uygulamasi.iam.gserviceaccount.com"
+}
+C:\Users\HP\source\repos\KargoTakipUygulamasi\KargoTakipUygulamasi\kargo-takip-uygulamasi-firebase-adminsdk-uci7u-5a2579d98b.json
