@@ -30,7 +30,7 @@ namespace KargoTakipUygulamasi
         {
             string path = AppDomain.CurrentDomain.BaseDirectory + @"kargo-takip.json";
             Environment.SetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS", path);
-            db = FirestoreDb.Create("kargo-takip-uygulamasi");
+            db = FirestoreDb.Create("firebase-name");
 
         }
         private void AddDelivery_Load(object sender, EventArgs e)
@@ -38,7 +38,7 @@ namespace KargoTakipUygulamasi
 
             Database();
 
-            GMapProviders.GoogleMap.ApiKey = @"AIzaSyBke6y6UFhDPfHdM8MU7H2qhg3LLtFWQJk";
+            GMapProviders.GoogleMap.ApiKey = @"yourapikey";
             gMap.DragButton = MouseButtons.Left; //hareket ettirme
             gMap.MapProvider = GMapProviders.GoogleMap; //haritayı tanımlama
             gMap.ShowCenter = false;
