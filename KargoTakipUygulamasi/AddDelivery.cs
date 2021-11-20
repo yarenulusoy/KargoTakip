@@ -135,7 +135,7 @@ namespace KargoTakipUygulamasi
 
             };
 
-            db = FirestoreDb.Create("kargo-takip-uygulamasi");
+            db = FirestoreDb.Create("firebase-name");
             DocumentReference docRef = db.Collection("kargoTakip").Document("" + customer.KargoID + "");
 
             await docRef.SetAsync(customer);
